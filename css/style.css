@@ -341,8 +341,6 @@ h2 {
     line-height: 34px;
   }
   .sub-title {
-    font-size: ;
-    line-height: ;
     margin-top: 10px;
   }
   /* TITLE & CONTACT */
@@ -432,8 +430,6 @@ h2 {
     line-height: 34px;
   }
   .sub-title {
-    font-size: ;
-    line-height: ;
     margin-top: 10px;
   }
   /* TITLE & CONTACT */
@@ -926,8 +922,8 @@ h2 {
 @media all and (min-width: 1600px) {
   /* HERO */
   h1 {
-    font-size: 180px;
-    line-height: 180px;
+    font-size: 60px;
+    line-height: 60px;
   }
   #countdown div span {
     font-size: 54px;
@@ -943,8 +939,8 @@ h2 {
 @media all and (min-width: 1920px) {
   /* HERO */
   h1 {
-    font-size: 200px;
-    line-height: 200px;
+    font-size: 90px;
+    line-height: 90px;
   }
   .sub-title {
     font-size: 30px;
